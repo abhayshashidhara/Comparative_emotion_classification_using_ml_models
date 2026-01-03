@@ -35,4 +35,27 @@ These models utilize contextual embeddings learned from large-scale corpora, ena
 ---
 
 ## Project Structure
+├── EDA/
+│ └── exploratory_data_analysis.ipynb
+│
+├── TFIDF_Balanced/
+│ └── scripts/
+│
+├── TFIDF_Unbalanced/
+│ └── scripts/
+│
+├── FastText_Balanced/
+│ └── scripts/
+│
+├── FastText_Unbalanced/
+│ └── scripts/
+│
+├── pretrained/
+│ ├── distilbert/
+│ │ └── scripts/
+│ └── mobilebert/
+│ └── scripts/
+│
+├── requirements.txt
+└── README.md
 
