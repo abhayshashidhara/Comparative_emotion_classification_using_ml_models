@@ -1,6 +1,6 @@
 ## Methodology
 
-This project evaluates emotion classification performance across traditional feature-based representations and modern pre-trained language models under a unified experimental framework.
+This project evaluates emotion classification on a Reddit emotion dataset using traditional feature-based methods and modern pre-trained language models under a unified experimental framework.
 
 ---
 
